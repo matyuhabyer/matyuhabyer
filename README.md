@@ -1,4 +1,4 @@
-### Hey there, I'm Matthew 👋🐐
+# Hello, I'm Matthew 🐐
 
 - 🎓 Currently studying and leveling up my skills
 - 🔭 Exploring full-stack development, ai, cloud, ui/ux, and whatever looks interesting
