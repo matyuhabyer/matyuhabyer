@@ -1,9 +1,10 @@
 # Hey there, I'm Matthew 👋🐐
 
-- 🎓 Currently studying and leveling up my dev skills
+- 🎓 Currently studying and leveling up my skills
 - 🔭 Exploring full-stack development, cloud, ui/ux, and whatever looks interesting
 - 💡 I enjoy turning ideas into working projects
 - 🎮 Probably debugging something right now
+- 👀 Looking for side quests !!
 
 
 ## 🌐 Let's Connect
