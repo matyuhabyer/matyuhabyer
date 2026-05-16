@@ -1,8 +1,8 @@
 # Hello, I'm Matthew 🐐
 
 - 🎓 Currently studying and leveling up my skills
-- 🔭 Exploring full-stack development, ai, cloud, ui/ux, and whatever looks interesting
-- 🎮 Probably working something right now
+- 🔭 Exploring full-stack development, cybersecurity, ai, cloud, ui/ux, and whatever looks interesting
+- 🎮 Probably cramming something right now
 - 👀 Looking for side quests !!
 
 
